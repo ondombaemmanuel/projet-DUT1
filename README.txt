@@ -30,23 +30,23 @@ Vin fonctionne sous MS-Windows (7, 8, 10, 11), macOS, Haiku, VMS et presque tout
 
 DISTRIBUTION
 
-You can often use your favorite package manager to install Vim.  On Mac and
-Linux a small version of Vim is pre-installed, you still need to install Vim
-if you want more features.
+Vous pouvez souvent utiliser votre gestionnaire de paquets préféré pour installer Vim.
+ Sur Mac et Linux, une petite version de Vim est préinstallée ; vous devez tout de même
+ installer Vim si vous souhaitez plus de fonctionnalités.
 
-There are separate distributions for Unix, PC, Amiga and some other systems.
-This README.txt file comes with the runtime archive.  It includes the
-documentation, syntax files and other files that are used at runtime.  To run
-Vim you must get either one of the binary archives or a source archive.
-Which one you need depends on the system you want to run it on and whether you
-want or must compile it yourself.  Check "https://www.vim.org/download.php" for
-an overview of currently available distributions.
+Il existe des distributions distinctes pour Unix, PC, Amiga et d'autres systèmes.
+ Ce fichier README.txt est fourni avec l'archive d'exécution. Il comprend la documentation,
+ les fichiers de syntaxe et d'autres fichiers utilisés lors de l'exécution. Pour exécuter Vim,
+ vous devez obtenir soit l'une des archives binaires, soit une archive source. Celle dont vous
+ avez besoin dépend du système sur lequel vous souhaitez l'exécuter et si vous souhaitez ou devez
+ la compiler vous-même. Consultez « https://www.vim.org/download.php » pour un aperçu des distributions
+ actuellement disponibles.
 
-Some popular places to get the latest Vim:
-* Check out the git repository from github: https://github.com/vim/vim.
-* Get the source code as an archive: https://github.com/vim/vim/tags.
-* Get a Windows executable from the vim-win32-installer repository:
-  https://github.com/vim/vim-win32-installer/releases.
+Quelques sites populaires pour obtenir la dernière version de Vim :
+
+Consultez le dépôt Git sur GitHub : https://github.com/vim/vim. Obtenez le code source sous forme d'archive :
+ https://github.com/vim/vim/tags. Obtenez un exécutable Windows depuis le dépôt vim-win32-installer :
+ https://github.com/vim/vim-win32-installer/releases.
 
 
 COMPILING
