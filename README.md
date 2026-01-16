@@ -1,4 +1,4 @@
-# [![Vim The editor](https://github.com/ondombaemmanuel/projet-DUT1.git)
+# [![GITHUB.COM](https://github.com/ondombaemmanuel/projet-DUT1.git)
 
 [![Github Build status](https://github.com/vim/vim/workflows/GitHub%20CI/badge.svg)](https://github.com/vim/vim/actions?query=workflow%3A%22GitHub+CI%22)
 [![Appveyor Build status](https://ci.appveyor.com/api/projects/status/o2qht2kjm02sgghk?svg=true)](https://ci.appveyor.com/project/chrisbra/vim)
