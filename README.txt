@@ -4,26 +4,28 @@ README.txt for version 9.1 of Vim: Vi IMproved.
 
 Qu'est ce que vim
 
-Vim is a greatly improved version of the good old UNIX editor Vi.  Many new
-features have been added: multi-level undo, syntax highlighting, command line
-history, on-line help, spell checking, filename completion, block operations,
-script language, etc.  There is also a Graphical User Interface (GUI) available.
-Still, Vi compatibility is maintained, those who have Vi "in the fingers" will
-feel at home.  See "runtime/doc/vi_diff.txt" for differences with Vi.
+Vim est une version grandement améliorée du bon vieux éditeur UNIX Vi.
+ De nombreuses nouvelles fonctionnalités ont été ajoutées : annulation
+ multiniveau, coloration syntaxique, historique de la ligne de commande
+, aide en ligne, correction orthographique, complétion des noms de fichiers
+, opérations par blocs, langage de script, etc. Une interface utilisateur
+ graphique (GUI) est également disponible. La compatibilité avec Vi est néanmoins
+ maintenue ; ceux qui ont Vi « dans les doigts » se sentiront comme chez eux.
+ Voir « runtime/doc/vi_diff.txt » pour les différences avec vi.
 
-This editor is very useful for editing programs and other plain text files.
-All commands are given with normal keyboard characters, so those who can type
-with ten fingers can work very fast.  Additionally, function keys can be
-mapped to commands by the user, and the mouse can be used.
+Cet éditeur est très utile pour éditer des programmes et d'autres fichiers texte brut.
+ Toutes les commandes sont données avec des caractères clavier normaux, ce qui permet à
+ ceux qui peuvent taper avec dix doigts de travailler très rapidement. De plus, les touches
+ de fonction peuvent être associées à des commandes par l'utilisateur, et la souris peut être utilisée.
 
-Vim also aims to provide a (mostly) POSIX-compatible vi implementation, when
-compiled with a minimal feature set (typically called vim.tiny), which is used
-by many Linux distributions as the default vi editor.
+Vim vise également à fournir une implémentation vi (principalement) compatible POSIX,
+ lorsqu'elle est compilée avec un ensemble minimal de fonctionnalités (généralement appelée vim.tiny),
+ qui est utilisée par de nombreuses distributions Linux comme éditeur vi par défaut
 
-Vim runs under MS-Windows (7, 8, 10, 11), macOS, Haiku, VMS and almost all
-flavours of UNIX.  Porting to other systems should not be very difficult.
-Older versions of Vim run on MS-DOS, MS-Windows 95/98/Me/NT/2000/XP/Vista,
-Amiga DOS, Atari MiNT, BeOS, RISC OS and OS/2.  These are no longer maintained.
+Vin fonctionne sous MS-Windows (7, 8, 10, 11), macOS, Haiku, VMS et presque toutes les versions d'UNIX.
+ Le portage vers d'autres systèmes ne devrait pas être très difficile. Les anciennes versions de Vim
+ fonctionnent sous MS-DOS, MS-Windows 95/98/Me/NT/2000/XP/Vista, Amiga DOS, Atari MINT, BEOS, RISC OS
+ et 05/2. Elles ne sont plus maintenues..
 
 
 DISTRIBUTION
