@@ -8,9 +8,9 @@ a été installé à l'aide de l'exécutable auto-installant.
 Il pose un nombre minimal de questions.
 Il peut supprimer tout ce qui a été installé.
 
-2. With uninstall.exe.
-   This removes most installed items, but does not delete the files you
-   unpacked.
+2. Avec uninstall.exe.
+Cela supprime la plupart des éléments installés,
+mais ne supprime pas les fichiers que avez décompressés.
 
 3. By hand.
    This is a bit more work, but you can decide exactly what you want to
